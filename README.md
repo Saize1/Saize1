@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **saize2saize@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saize1&show_icons=true&locale=en" alt="saize1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saize1&" alt="saize1" /></p>
+
